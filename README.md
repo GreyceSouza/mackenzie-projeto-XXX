@@ -1,4 +1,4 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# Objedos Inteligentes Conectados 2 sem. 2018
 
 ## Turma 5 J12
 ## Projeto: "Controlar sistema de iluminação"
