@@ -1,18 +1,25 @@
 # [NOME DA DISCIPLINA] X sem. 20XX
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 5 J12
+## Projeto: "Controlar sistema de iluminação"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Greyce Carla Santos de Souza 31440721
+* Solange de Freitas Alvarenga 31588328
+* Fabio Varoli de Souza 
+* Flavio Danilo Silva da Costa 31534112
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+Descreva resumidamente o projeto aqui
 
+Tema: Controlar sistema de iluminação de sua residencia ultilizando seu smartphone
+
+arduino Uno
+Leds
+Fios de ponte
+Smartphone android
+breadboard
 _______________________________________
 Obs:
 
