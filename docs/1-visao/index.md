@@ -50,10 +50,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Necessita de acesso á internet. 
+* Necessita de um Smartphone ou Tablet com sistema operacional androide.
+
 
 ## Protótipos
 
