@@ -12,18 +12,27 @@
 ## Descrição resumida do projeto
 
    Pensando na automatização residencial nossa ideia consiste em automatizar o controle de luz atraves de um Smartphone ou tablet.
-   Essa proposta com custo aproximado de 70 reais ultilizou de NodeMcu - esp8266,lampada led,Fios de ponte,Smartphone ou tablet android,breadboard,Relé 5 volts e Jumpers.
+   Essa proposta com custo aproximado de 70 reais ultilizando os seguintes componentes:
+   
+   NodeMcu - esp8266;
+   
+   lampada led;
+   
+   Fios de ponte;
+   
+   Smartphone ou tablet android;
+   
+   breadboard;
+  
+  Relé 5 volts e 
+   
+  Jumpers.
+  
+  Pensando em um contexto de iot (internet of things) este projeto agrega muitos beneficios não só academicos como sociais se pensarmos nos beneficios que um sistema de iluminação inteligente pode trazer.
+  
 
 Tema: Controlar sistema de iluminação de sua residencia ultilizando seu smartphone
-
-NodeMcu - esp8266
-lampada led
-Fios de ponte
-Smartphone android
-breadboard
-Relé 5 volts
-Jumpers
-_______________________________________
+_____________________________
 Obs:
 
 `src/` deve conter os códigos desenvolvidos
