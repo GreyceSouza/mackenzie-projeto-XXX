@@ -2,24 +2,24 @@
 
 
 
-1) Lista de Peças (descrição e imagens, quando disponíveis)
+1) Lista de Peças (descrição e imagens, quando disponíveis):
 
-   1 NodeMcu - esp8266;
+    NodeMcu - esp8266;
 
-   1 Lampada;
+    Lampada;
 
-   1 Modulo Relé 5 volts;
+    Modulo Relé 5 volts;
 
-   Jumpers;
+    Jumpers;
 
-   Fio e
+    Fio e
 
-   1 Smartphone.
+    Smartphone.
 
 2) Desenho Tinkercad ou Fritzing
 
 3) Esquema eletrônico
 
-4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D)
+4) Materiais para confecção de caixas e consoles (ou arquivos para impressão 3D):
 
    Não se aplica.
