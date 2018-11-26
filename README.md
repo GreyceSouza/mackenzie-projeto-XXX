@@ -1,7 +1,7 @@
 # Objedos Inteligentes Conectados 2 sem. 2018
 
 ## Turma 5 J12
-## Projeto: "Controlar sistema de iluminação"
+## Projeto: "Sistema de iluminação Controlado por App"
 ## Integrantes do grupo:
 
 * Greyce Carla Santos de Souza 31440721
@@ -11,15 +11,18 @@
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui
+   Pensando na automatização residencial nossa ideia consiste em automatizar o controle de luz atraves de um Smartphone ou tablet.
+   Essa proposta com custo aproximado de 70 reais ultilizou de NodeMcu - esp8266,lampada led,Fios de ponte,Smartphone ou tablet android,breadboard,Relé 5 volts e Jumpers.
 
 Tema: Controlar sistema de iluminação de sua residencia ultilizando seu smartphone
 
-arduino Uno
-Leds
+NodeMcu - esp8266
+lampada led
 Fios de ponte
 Smartphone android
 breadboard
+Relé 5 volts
+Jumpers
 _______________________________________
 Obs:
 
