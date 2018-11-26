@@ -1,4 +1,4 @@
-# Documento de Visão do Projeto "NOME DO PROJETO"
+# Documento de Visão do Projeto "SISTEMA DE ILUMINAÇÃO CONTROLADO POR APP"
 
 Este documento apresenta uma solução de software para o projeto "SISTEMA DE ILUMINAÇÃO CONTROLADO POR APP de", 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
