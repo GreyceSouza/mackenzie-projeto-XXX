@@ -66,7 +66,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ### Protótipos para funcionalidade 1
 
-![](proto1.png)
+![](MQTT-overview.jpg)
 
 Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
