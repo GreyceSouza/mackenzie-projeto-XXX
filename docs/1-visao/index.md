@@ -66,9 +66,9 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ### Protótipos para funcionalidade 1
 
-![](MQTT-overview.jpg)
+![](lampada.jpg)
 
-Fonte: https://www.norwegiancreations.com/2017/07/mqtt-what-is-it-and-how-can-you-use-it/ **July 20, 2017Ragnar Ranøyen Homb**.
+Fonte:  **July 20, 2017Ragnar Ranøyen Homb**.
 
 ### Protótipos para funcionalidade 2
 
