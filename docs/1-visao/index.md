@@ -68,7 +68,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ![](lampada.jpg)
 
-Fonte:  **July 20, 2017Ragnar Ranøyen Homb**.
+Fonte:https://smarttudo.com.br/products/smart-lampada-de-led-wifi **Smart Lâmpada de LED Wifi**.
 
 ### Protótipos para funcionalidade 2
 
