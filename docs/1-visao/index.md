@@ -68,7 +68,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 ![](MQTT-overview.jpg)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
+Fonte: https://www.norwegiancreations.com/2017/07/mqtt-what-is-it-and-how-can-you-use-it/ **July 20, 2017Ragnar Ranøyen Homb**.
 
 ### Protótipos para funcionalidade 2
 
