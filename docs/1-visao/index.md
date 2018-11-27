@@ -30,11 +30,7 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
    Essa solução traz conforto aos úsuarios, segurança , sustentabilidade e inclusão.
 
 ## Integração com outros sistemas
-
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+Não se aplica.
  
 ## Interessados
 Pessoas que se interessam por automatização residencial.
