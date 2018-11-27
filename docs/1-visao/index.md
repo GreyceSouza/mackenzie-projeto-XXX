@@ -32,8 +32,13 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 ## Integração com outros sistemas
 Não se aplica.
  
+ 
+ 
 ## Interessados
 Pessoas que se interessam por automatização residencial.
+
+## Úsuarios
+Cliente que prezam por conforto , facilidade e tecnologia.
 
 
 ## Funcionalidades do produto
