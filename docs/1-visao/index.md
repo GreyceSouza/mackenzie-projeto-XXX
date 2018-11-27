@@ -37,23 +37,13 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 * etc.
  
 ## Interessados
+Pessoas que se interessam por automatização residencial.
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
-
-## Usuários
-
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
 
 ## Funcionalidades do produto
 
 * Controlar com a lampada atraves de um smartphone ou Tablet;
-* Conectar atraves da internet.
+
 
 
 ## Restrições do projeto
@@ -70,10 +60,6 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
 
 Fonte:https://smarttudo.com.br/products/smart-lampada-de-led-wifi **Smart Lâmpada de LED Wifi**.
 
-### Protótipos para funcionalidade 2
 
-![](proto2.png)
 
-Fonte: Exemplos gerados pelo assistente do **Enterprise Architect**.
 
-### Protótipos para funcionalidade N
